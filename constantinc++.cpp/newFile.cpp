@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "new"<<endl;
+    cout << "neghfw"<<endl;
     return 0;
-    
+
 }
