@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     //int constant
-    const int intVal =10;
+    const int intVal =34;
     
     //real constant
     const float floatVal = 4.14;
